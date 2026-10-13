@@ -1,0 +1,14 @@
+{
+  "name": "doony68-language",
+  "owner": {
+    "name": "doony68"
+  },
+  "plugins": [
+    {
+      "name": "clean-view",
+      "source": "./clean-view",
+      "description": "Hides tool calls and shows one friendly checklist above the prompt while Claude works."
+    }
+  ],
+  "description": "Claude Code mods by doony68."
+}
