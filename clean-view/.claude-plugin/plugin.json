@@ -1,0 +1,6 @@
+{
+  "name": "clean-view",
+  "version": "0.1.0",
+  "description": "Hides tool calls and shows one friendly checklist above the prompt while Claude works.",
+  "types": "./types/index.d.ts"
+}
